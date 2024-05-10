@@ -1,1 +1,3 @@
 # stid
+<br>
+global declaration
